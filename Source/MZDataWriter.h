@@ -2,7 +2,7 @@
 #pragma once
 
 #include "../../MZMisc/Source/AutoHandle.h"
-#include "MZUtilsExceptions.h"
+#include "MZDataReaderException.h"
 #include "MZLinesData.h"
 
 namespace MZDR

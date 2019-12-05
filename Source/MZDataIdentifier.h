@@ -2,7 +2,7 @@
 
 #include <WinBase.h>
 #include <memory>
-#include "MZUtilsExceptions.h"
+#include "MZDataReaderException.h"
 #include "../../MZMisc/Source/AutoHandle.h"
 
 namespace MZDR

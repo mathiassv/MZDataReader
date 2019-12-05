@@ -3,7 +3,7 @@
 #include "../../MZMisc/Source/AutoHandle.h"
 
 #include "MZDataReader.h"
-#include "MZUtilsExceptions.h"
+#include "MZDataReaderException.h"
 
 #ifndef STL_string
 #define STL_string std::string
