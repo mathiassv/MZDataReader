@@ -28,7 +28,7 @@ Class for writing lines to file
 Static class that will identify what kind of dataformat it is. Binary or Text (Unicode, UTF8, Ascii)
 
 # Example
-See the [MZLineSorter]https://github.com/mathiassv/MZLineSorter repo for example of usage
+See the [MZLineSorter](https://github.com/mathiassv/MZLineSorter) repo for example of usage
 
 # History
 v1.0 - 2019-11-05<br/>
