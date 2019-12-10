@@ -5,22 +5,22 @@ Helper C++ class for handling reading and writing of data easier..
 
 * FileDataReader<br/>
 Class for reading data from file
-<br/>
+<br/><br/>
 * MemoryDataReaderLineDataWriter<br/>
 Class for reading data from a memory buffer
-<br/>
+<br/><br/>
 * FileDataWriter<br/>
 Class for writing to a file
-<br/>
+<br/><br/>
 * WriteLinesToFile<br/>
 Class for writing a collection of lines to a file
-<br/>
+<br/><br/>
 * MemoryDataWriter<br/>
 Class for writing data to memory buffert
-<br/>
+<br/><br/>
 * LineReader<br/>
 Class for reading lines from a buffer or from a DataReader (see class above)
-<br/>
+<br/><br/>
 * LineDataWriter<br/>
 Class for writing lines to file
 
