@@ -24,6 +24,8 @@ Class for reading lines from a buffer or from a DataReader (see class above)
 <br/><br/>
 * LineDataWriter<br/>
 Class for writing lines to file
+* DataIdentifier<br/>
+Static class that will identify what kind of dataformat it is. Binary or Text (Unicode, UTF8, Ascii)
 
 # History
 v1.0 - 2019-11-05<br/>
