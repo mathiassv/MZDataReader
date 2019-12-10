@@ -1,5 +1,6 @@
 # MZDataReader
 Helper C++ class for handling reading and writing of data easier.. 
+Will throw exception ( MZDR::MZDataReaderException ) on error
 
 ## Classes
 
@@ -24,3 +25,6 @@ Class for reading lines from a buffer or from a DataReader (see class above)
 * LineDataWriter<br/>
 Class for writing lines to file
 
+# History
+v1.0 - 2019-11-05<br/>
+First public version
